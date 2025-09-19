@@ -1,3 +1,5 @@
+# 某网页的配置文件
+
 | 名称 | 加速链接1 | 加速链接2 | 加速链接3 | 加速链接4 | 加速链接5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | base58.txt | [订阅](http://hk-proxy.gitwarp.com/https://raw.githubusercontent.com/999771/tv-sub/refs/heads/main/sub-base58.txt) | [订阅](https://raw.gitmirror.com/999771/tv-sub/refs/heads/main/sub-base58.txt) | [订阅](https://xget.xi-xu.me/gh/999771/tv-sub/raw/refs/heads/main/sub-base58.txt) | [订阅](https://gh-proxy.com/https://raw.githubusercontent.com/999771/tv-sub/refs/heads/main/sub-base58.txt) | [订阅](https://fastgit.cc/https://raw.githubusercontent.com/999771/tv-sub/refs/heads/main/sub-base58.txt) |
