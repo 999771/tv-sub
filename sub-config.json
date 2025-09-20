@@ -21,6 +21,16 @@
             "name": "茅台资源",
             "detail": "https://mtzy0.com"
         },
+        "ruyi": {
+            "api": "https://cj.rycjapi.com/api.php/provide/vod",
+            "name": "如意资源",
+            "detail": "https://www.ryzyw.com"
+        },
+        "xmao": {
+            "api": "http://zy.xmm.hk/api.php/provide/vod",
+            "name": "小猫咪资源",
+            "detail": "https://zy.xmm.hk"
+        },
         "tyzy": {
             "api": "https://tyyszyapi.com/api.php/provide/vod",
             "name": "天涯资源",
